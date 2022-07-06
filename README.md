@@ -12,6 +12,7 @@ Projects
     <link rel="icon" href="images/favicon.png" />
   </head>
   <h1>we can do it together</h1>
+  <h2> lets come together </h2>
   <p>My first paragraph.</p>
   <body>
     <script src="js/scripts.js"></script>
