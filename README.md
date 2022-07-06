@@ -11,7 +11,8 @@ Projects
     <link rel="stylesheet" href="css/main.css" />
     <link rel="icon" href="images/favicon.png" />
   </head>
-
+  <h1>we can do it together</h1>
+  <p>My first paragraph.</p>
   <body>
     <script src="js/scripts.js"></script>
   </body>
